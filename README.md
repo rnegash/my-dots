@@ -1,2 +1,2 @@
 # my-dots
-my dotfiles
+my dotfiles. for me, most probably, in the future
