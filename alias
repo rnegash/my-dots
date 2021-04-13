@@ -1,0 +1,23 @@
+alias gs='git status'
+alias ga='git add'
+alias gc='git commit -m'
+alias gp='git push origin HEAD'
+alias gco='git checkout'
+alias gcom='git checkout master'
+alias gb='git branch'
+alias gbd='git branch -d'
+alias gm='git merge'
+alias gd='git diff'
+alias grh='git reset --hard'
+alias myip='curl ip.appspot.com'
+
+alias ni='npm install --save'
+alias nr='npm run'
+alias nrt='npm run test'
+alias nrl='npm run lint'
+alias ns='npm start'
+
+alias emand='emulator:android'
+alias emios='emulator:ios'
+
+alias ernand='ern run-android'
