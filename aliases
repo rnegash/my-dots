@@ -9,6 +9,8 @@ alias gbd='git branch -d'
 alias gm='git merge'
 alias gd='git diff'
 alias grh='git reset --hard'
+alias gfresh='git pull && npm ci'
+
 alias myip='curl ip.appspot.com'
 
 alias ni='npm install --save'
